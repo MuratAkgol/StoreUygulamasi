@@ -9,3 +9,4 @@ C:\Users\Murat\Store\Entities\obj\Debug\net6.0\Entities.dll
 C:\Users\Murat\Store\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\Murat\Store\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\Murat\Store\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Murat\Store\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache

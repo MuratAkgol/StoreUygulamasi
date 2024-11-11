@@ -13,16 +13,8 @@
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\17292468436365848529509753300685.jpg",
-      "PackagePath": "staticwebassets\\images\\17292468436365848529509753300685.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\17292469493308081966094641932750.jpg",
-      "PackagePath": "staticwebassets\\images\\17292469493308081966094641932750.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\1729338783567108002731016501082.jpg",
-      "PackagePath": "staticwebassets\\images\\1729338783567108002731016501082.jpg"
+      "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
     },
     {
       "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
@@ -53,8 +45,16 @@
       "PackagePath": "staticwebassets\\images\\8.jpg"
     },
     {
+      "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
       "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\default.jpg",
       "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\images\\parsel görüntü.jpeg",
+      "PackagePath": "staticwebassets\\images\\parsel görüntü.jpeg"
     },
     {
       "Id": "C:\\Users\\Murat\\Store\\StoreApp\\wwwroot\\js\\site.js",

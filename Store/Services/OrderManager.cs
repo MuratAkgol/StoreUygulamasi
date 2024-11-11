@@ -17,9 +17,9 @@ namespace Services
 
         public int NumberOfInProcess => _manager.Order.NumberOfInProcess;
 
-        public void Complate(int id)
+        public void Complete(int id)
         {
-            _manager.Order.Complate(id);
+            _manager.Order.Complete(id);
             _manager.Save();
         }
 

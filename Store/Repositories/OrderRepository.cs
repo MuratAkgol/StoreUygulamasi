@@ -15,7 +15,7 @@ namespace Repositories
 
         public int NumberOfInProcess => _context.Orders.Count(o => o.Shipped.Equals(false));
 
-        public void Complate(int id)
+        public void Complete(int id)
         {
             var order = FindByCondition(o => o.OrderId.Equals(id), true);
             if (order is null)
@@ -33,6 +33,7 @@ namespace Repositories
             _context.AttachRange(order.Lines.Select(l => l.Product));
             if (order.OrderId == 0)
                 _context.Orders.Add(order);
+            _context.SaveChanges();
         }
     }
 }
